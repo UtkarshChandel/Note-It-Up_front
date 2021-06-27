@@ -1,4 +1,4 @@
-# Note-It-Up-Front with OPenAI and GPT-3
+# Note-It-Up-Front 
+- This project was part of JIT hackathon
 
-This project was part of JIT hackathon
 
